@@ -1,0 +1,12 @@
+{
+  "name": "anime-api-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@justalk/anime-api": "^1.1.2"
+  }
+}
